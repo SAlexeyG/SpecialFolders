@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e4da6e93a43c4e37995456fc63ea20b, type: 3}
+  m_Name: Effects
+  m_EditorClassIdentifier: 
+  effects:
+  - CFX_ElectricityBall
+  - CFX_Explosion_B_Smoke+Text
+  - CFX_Firework_Trails_Gravity
+  - CFX_Hit_A Red+RandomText
+  - CFX_Hit_C White
